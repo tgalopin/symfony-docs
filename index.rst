@@ -39,6 +39,7 @@ Topics
 
     assetic
     bundles
+    cache
     console
     doctrine
     debug
